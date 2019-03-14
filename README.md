@@ -1,15 +1,17 @@
 ### Date created
-Include the date you created this project and README file.
+3/14/2019
 
 ### Project Title
-Replace the Project Title
+Enhanced Documentation adn Refactoring of Bike Share Project
 
 ### Description
-Describe what your project is about and what it does
+Git workflow using Jupyter Notebook created for the Python project for Udacity's course:
+Programming for Data Science
 
 ### Files used
-Include the files used
+Jupyter notebook:bike_sharing_project.ipynb
+Photos: PNG files for each city
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Pro Gitbook by Scott Chacon
+https://git-scm.com/book/en/v2
